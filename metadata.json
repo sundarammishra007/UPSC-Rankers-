@@ -1,0 +1,8 @@
+{
+  "name": "UPSC Rankers",
+  "description": "A concept-based UPSC prep app. Read bite-sized topics, record explanations in your own words, and upload Mains answers for community review.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
